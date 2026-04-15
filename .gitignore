@@ -1,0 +1,18 @@
+# Çalıştırılabilir dosyalar (Executable)
+*.exe
+*.out
+bipartite_graph
+
+# Derleme klasörleri ve geçici dosyalar
+cmake-build-debug/
+cmake-build-release/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Sistem ve IDE dosyaları
+.idea/
+.vscode/
+.DS_Store
